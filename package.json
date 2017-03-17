@@ -1,0 +1,24 @@
+{
+  "name": "feathers-docker",
+  "version": "0.0.1",
+  "description": "Featherjs service adapter for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgimalexis/feathers-docker.git"
+  },
+  "keywords": [
+    "feathersjs",
+    "feathers-service-adapter",
+    "docker"
+  ],
+  "author": "Alexis Tyler <xo@wvvw.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omgimalexis/feathers-docker/issues"
+  },
+  "homepage": "https://github.com/omgimalexis/feathers-docker#readme"
+}
